@@ -1,0 +1,7 @@
+[package]
+name = "halo_v"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+halo2_proofs = { git = "https://github.com/zcash/halo2.git", rev = "7df93fd855395dcdb301a857d4b33f37903bbf76"}
