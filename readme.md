@@ -1,6 +1,6 @@
 ## Zk-example
 
-This repository contains the code implementations from my study of zk-SNARKs.
+This repository contains the code implementations from my study of zk-proof 
 
 
 > [!NOTE]  
