@@ -1,7 +1,7 @@
 use methods::POLYNOMIAL_ELF;
 use risc0_zkvm::{default_prover, ExecutorEnv, Receipt};
 
-// Compute the polynomial y = x^3 + x + t in zkVM
+// Compute the polynomial y = x^3 + x + 5 in zkVM
 pub fn polynomial(x: u64) -> (Receipt, u64) {
     let env = ExecutorEnv::builder()
         // send x to the guest
