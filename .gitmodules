@@ -1,0 +1,3 @@
+[submodule "risc0-eth-demo"]
+	path = risc0-eth-demo
+	url = https://github.com/PinelliaC/risc0-eth-demo
